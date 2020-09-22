@@ -1,2 +1,2 @@
 # PersonalPortfolio
-Stephen Ross Personal Portfolio
+MSU Homework #2
